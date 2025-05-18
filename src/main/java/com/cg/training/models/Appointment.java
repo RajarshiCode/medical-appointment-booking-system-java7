@@ -3,7 +3,7 @@ package com.cg.training.models;
 /**
  * The Appointment class represents an appointment between a patient and a doctor.
  * It includes details such as the patient, the doctor, and the appointment status.
-   Author: Shrestha Das
+ * @author: Shrestha Das
  */
 public class Appointment {
 
