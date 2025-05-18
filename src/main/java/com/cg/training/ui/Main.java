@@ -91,7 +91,7 @@ public class Main {
                         }
                         if (doctorChoice.equals("5")) break;
                     }
- //Patient Menu
+                 //Patient Menu
                 } else if (roleChoice.equals("2")) {
                     while (true) {
                         System.out.println("\nPatient Menu:");
