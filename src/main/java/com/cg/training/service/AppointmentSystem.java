@@ -18,7 +18,7 @@ import com.cg.training.models.Patient;
  * It manages the registration of patients and doctors, booking appointments,
  * and tracking appointment status.
  * 
- * Author: Shrestha Das
+ * Author: Shrestha Das and Rajarshi Das
  */
 public class AppointmentSystem implements AppointmentSystemDAO {
 
